@@ -21,7 +21,7 @@ I am eager to combine my technical expertise, research acumen, and leadership ex
 
 </p>
 
-Publications 
+Selected Publications 
 ======
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=wFWBvm8AAAAJ)
