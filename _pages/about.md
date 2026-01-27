@@ -9,15 +9,11 @@ redirect_from:
  <p style="text-align:justify; text-justify:inter-ideograph;">
 I am a highly motivated Software Engineering graduate currently pursuing a Master's degree in Computational Biology. My academic journey has equipped me with a solid foundation in computer science, encompassing software development, algorithm design, and data structures, while my graduate research focuses on computational biology and model interpretability. By leveraging my expertise in bioinformatics, machine learning, and systems biology, I aim to develop innovative computational solutions for complex biological and medical challenges.
 <br>
+
 <br>
-During my undergraduate studies, I demonstrated strong leadership as the President of the Student Union of Northwest A&F University, where I successfully organized campus-wide events, represented the student body in university decision-making, and fostered a collaborative environment for diverse initiatives. This experience honed my organizational, communication, and leadership skills, which I continue to apply in my academic and research pursuits.
-<br>
-<br>
-In addition to my leadership roles, I have contributed to high-impact research as evidenced by my publications in top-tier journals, including <span style="font-style: italic; font-weight: bold;">Genome Biology</span>, <span style="font-style: italic; font-weight: bold;">Computational Methods and Programs in Biomedicine</span> and <span style="font-style: italic; font-weight: bold;">IEEE Journal of Biomedical and Health Informatics</span>. These works highlight my commitment to interdisciplinary collaboration and advancing knowledge at the intersection of computational science and biology.
-<br>
+I have contributed to high-impact research as evidenced by my publications in top-tier journals, including <span style="font-style: italic; font-weight: bold;">Genome Biology</span>, <span style="font-style: italic; font-weight: bold;">Computational Methods and Programs in Biomedicine</span> and <span style="font-style: italic; font-weight: bold;">IEEE Journal of Biomedical and Health Informatics</span>. These works highlight my commitment to interdisciplinary collaboration and advancing knowledge at the intersection of computational science and biology.
 <br>
 
-I am eager to combine my technical expertise, research acumen, and leadership experience to contribute meaningfully to transformative advancements in life sciences and healthcare.
 
 </p>
 

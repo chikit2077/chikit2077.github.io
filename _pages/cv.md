@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* Postgraduate (by recommendation), Biology and Medicine, College of Life Sciences, Northwest A&F University, 2023-Present
+* Postgraduate (by recommendation), Biology and Medicine, College of Life Sciences, Northwest A&F University, 2023-2026
   * Supervisor: [Prof. Mingzhi Liao](https://life.nwafu.edu.cn/szdw/js2/389648.htm)
 * Bachelor, Software Engineering, College of Information Engineering, Northwest A&F University, 2019-2023
   * Supervisor: [Prof. Fuyi Li](https://cie.nwsuaf.edu.cn/szdw/js/2022110040/index.htm)
@@ -59,7 +59,7 @@ Skills
 
 Languages
 ======
-* English: Fluent (IELTS: 7.0)
+* English: Fluent
 * Chinese: Native speaker (Mandarin and Cantonese)
 * Japanese: Beginner level (Actively learning)
 
