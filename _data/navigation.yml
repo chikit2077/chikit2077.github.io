@@ -25,6 +25,7 @@ main:
     
   - title: "Curriculum Vitae (CV)"
     url: /cv/
+    class: "masthead__menu-item--cv"
     
   # - title: "Guide"
   #   url: /markdown/
