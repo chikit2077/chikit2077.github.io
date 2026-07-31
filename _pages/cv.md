@@ -20,11 +20,6 @@ Education
 Experience
 ======
 
-* 2025-2026: **Visiting Student**
-  * Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE
-  * Duties included:
-    * Support research on the Human Phenotype Project (HPP) and modeling complex biological processes, such as antigen presentation, by incorporating multi-omics data with deep learning–based multimodal models.
-
 * Spring 2024: **Visiting Student**
   * Northwest Women’s and Children’s Hospital, Xi’an, China
   * Duties included:
