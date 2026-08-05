@@ -60,7 +60,7 @@ Languages
 
 Awards
 ======
-* Outstanding Thesis ([link](https://cie.nwsuaf.edu.cn/dtytz/tzgg/90993255a9804b12bcad1c0a2cc943c1.htm), 2023)
+* Outstanding Thesis (2023, 2026)
 * National Level Scholarships (2020, 2022)
 * Shaanxi Provincial Academic Union Student Union Advanced Work Individual Award (2022)
 * The First Prize Scholarship (2020-2023)

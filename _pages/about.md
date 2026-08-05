@@ -30,5 +30,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 4. **<u>He Z</u>**, Wang C, Guo X, Sun H, Bi Y, Pitt ME, Li C, Song J, Coin LJM, Li F. MERITS: a web-based integrated Mycobacterial PE/PPE protein database. **_Bioinform Adv_**. 2024 Mar 2;4(1):vbae035. doi: [10.1093/bioadv/vbae035](https://doi.org/10.1093/bioadv/vbae035). (IF=2.8, JCR Q2)
 5. Jia R†, **<u>He Z†</u>**, Wang C, Guo X, Li F. MetalPrognosis: A Biological Language Model-Based Approach for Disease-Associated Mutations in Metal-Binding Site Prediction. **_IEEE/ACM Trans Comput Biol Bioinform_**. 2024 Sep 25;PP. doi: [10.1109/TCBB.2024.3467093](https://doi.org/10.1109/TCBB.2024.3467093). (IF=3.3, JCR Q1)
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5qndf9dzi42&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=ldJVBxZyMAZXti-twkDRlixIh-RQgEoKPJ_4FXazamA"></script>
 
